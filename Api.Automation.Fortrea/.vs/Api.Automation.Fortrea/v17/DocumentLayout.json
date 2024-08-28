@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ApiFortrea\\Api.Automation.Fortrea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\auth\\apiauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\auth\\apiauthenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF850BF-9E27-4481-A099-246634B68C99}|Test\\Test.csproj|c:\\apifortrea\\api.automation.fortrea\\test\\features\\createusersteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF850BF-9E27-4481-A099-246634B68C99}|Test\\Test.csproj|solutionrelative:test\\features\\createusersteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF850BF-9E27-4481-A099-246634B68C99}|Test\\Test.csproj|c:\\apifortrea\\api.automation.fortrea\\test\\features\\createuser.feature||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{4EF850BF-9E27-4481-A099-246634B68C99}|Test\\Test.csproj|solutionrelative:test\\features\\createuser.feature||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\models\\request\\createusereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\models\\request\\createusereq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\api.automation.fortrea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\api.automation.fortrea.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\utility\\handlecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\utility\\handlecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\models\\response\\createuserres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\models\\response\\createuserres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\iapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\iapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\models\\response\\singleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\models\\response\\singleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|c:\\apifortrea\\api.automation.fortrea\\api.automation.fortrea\\models\\response\\listofuserres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1436702F-58C9-488B-AC6B-F908FCFA2D4A}|Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj|solutionrelative:api.automation.fortrea\\models\\response\\listofuserres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 869,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserRes.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Models\\Response\\CreateUserRes.cs",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\Models\\Response\\CreateUserRes.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Models\\Response\\CreateUserRes.cs",
+              "RelativeToolTip": "Api.Automation.Fortrea\\Models\\Response\\CreateUserRes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:10:29.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HandleContent.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Utility\\HandleContent.cs",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\Utility\\HandleContent.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Utility\\HandleContent.cs",
+              "RelativeToolTip": "Api.Automation.Fortrea\\Utility\\HandleContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:49:33.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserSteps.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Test\\Features\\CreateUserSteps.cs",
+              "RelativeDocumentMoniker": "Test\\Features\\CreateUserSteps.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Test\\Features\\CreateUserSteps.cs",
+              "RelativeToolTip": "Test\\Features\\CreateUserSteps.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAMwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T13:11:04.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Api.Automation.Fortrea.csproj",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj",
+              "RelativeToolTip": "Api.Automation.Fortrea\\Api.Automation.Fortrea.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T14:42:09.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIAuthenticator.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Auth\\APIAuthenticator.cs",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\Auth\\APIAuthenticator.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Auth\\APIAuthenticator.cs",
+              "RelativeToolTip": "Api.Automation.Fortrea\\Auth\\APIAuthenticator.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:52:29.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateUser.feature",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Test\\Features\\CreateUser.feature",
+              "RelativeDocumentMoniker": "Test\\Features\\CreateUser.feature",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Test\\Features\\CreateUser.feature",
+              "RelativeToolTip": "Test\\Features\\CreateUser.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-27T10:39:51.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIClient.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\APIClient.cs",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\APIClient.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\APIClient.cs",
+              "RelativeToolTip": "Api.Automation.Fortrea\\APIClient.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:45:24.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUseReq.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Models\\Request\\CreateUseReq.cs",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\Models\\Request\\CreateUseReq.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Models\\Request\\CreateUseReq.cs",
+              "RelativeToolTip": "Api.Automation.Fortrea\\Models\\Request\\CreateUseReq.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T14:10:37.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListOfUserRes.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Models\\Response\\ListOfUserRes.cs",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\Models\\Response\\ListOfUserRes.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Models\\Response\\ListOfUserRes.cs",
+              "RelativeToolTip": "Api.Automation.Fortrea\\Models\\Response\\ListOfUserRes.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:29:51.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SingleUser.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Models\\Response\\SingleUser.cs",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\Models\\Response\\SingleUser.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\Models\\Response\\SingleUser.cs",
+              "RelativeToolTip": "Api.Automation.Fortrea\\Models\\Response\\SingleUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T05:33:02.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EndPoints.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\EndPoints.cs",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\EndPoints.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\EndPoints.cs",
+              "RelativeToolTip": "Api.Automation.Fortrea\\EndPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:50:02.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAPIClient.cs",
+              "DocumentMoniker": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\IAPIClient.cs",
+              "RelativeDocumentMoniker": "Api.Automation.Fortrea\\IAPIClient.cs",
+              "ToolTip": "C:\\ApiFortrea\\Api.Automation.Fortrea\\Api.Automation.Fortrea\\IAPIClient.cs",
+              "RelativeToolTip": "Api.Automation.Fortrea\\IAPIClient.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T04:31:33.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
